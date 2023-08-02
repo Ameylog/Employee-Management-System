@@ -7,10 +7,15 @@ The project aims to demonstrate a basic Employee Management System with CRUD (Cr
 
 The actual functionality for adding, editing, deleting employees, and handling authentication should be implemented on the server-side in a real-world scenario.
 
+## Home Page
+![Home page](https://github.com/Ameylog/Employee-Management-System/assets/58946915/7b706079-dd80-46d8-aa31-c4c71ad0c623)
 
-## Installation
+## Add Employee
+![Add Employee](https://github.com/Ameylog/Employee-Management-System/assets/58946915/8362f47d-920f-40b2-a023-1062982d4ef8)
 
-Install EMS_Frontend with npm
+
+
+## Install EMS_Frontend with npm
 
 ```bash
   npm install EMS_Frontend
@@ -25,7 +30,7 @@ Install EMS_Frontend with npm
    npm start
 ```
 
-### IF BootStrap is not run then  add below CDN in index.html file
+### If BootStrap is not working then add CDN in index.html file
 Add after title tag
 ```bash
    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
