@@ -31,7 +31,14 @@ The actual functionality for adding, editing, deleting employees, and handling a
 ![Dashboard](https://github.com/Ameylog/Employee-Management-System/assets/58946915/498adc6d-b5c8-4b94-bdd3-d1960c6dc837)
 
 ## After Deleting Second Record
-![Deleted Second Record](https://github.com/Ameylog/Employee-Management-System/assets/58946915/308db9e4-2555-4bf9-8942-936dc7d6855f)
+![Seond Record Deleted](https://github.com/Ameylog/Employee-Management-System/assets/58946915/f3fc5e3e-6420-4989-83d4-f6da41ccd049)
+
+## Search Record
+![Seach Record](https://github.com/Ameylog/Employee-Management-System/assets/58946915/13ce1994-7a3f-4d03-9e52-9bbbc78d77c0)
+
+## Record Not In Database
+![Record Not In Database](https://github.com/Ameylog/Employee-Management-System/assets/58946915/42c84296-2714-4e5f-b953-25aceb5ef95e)
+
 
 
 ## Install EMS_Frontend with npm
