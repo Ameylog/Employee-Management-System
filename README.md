@@ -8,11 +8,29 @@ The project aims to demonstrate a basic Employee Management System with CRUD (Cr
 The actual functionality for adding, editing, deleting employees, and handling authentication should be implemented on the server-side in a real-world scenario.
 
 ## Home Page
-![Home page](https://github.com/Ameylog/Employee-Management-System/assets/58946915/7b706079-dd80-46d8-aa31-c4c71ad0c623)
+[Dashboard](https://github.com/Ameylog/Employee-Management-System/assets/58946915/b30d65ee-87db-485f-8616-ef31febc07cf)
+
 
 ## Add Employee
-![Add Employee](https://github.com/Ameylog/Employee-Management-System/assets/58946915/8362f47d-920f-40b2-a023-1062982d4ef8)
+![Add Employee](https://github.com/Ameylog/Employee-Management-System/assets/58946915/2bcd0231-b6be-4fd2-aa2e-08d34ad67445)
 
+## Validation
+![Add Employee Validation](https://github.com/Ameylog/Employee-Management-System/assets/58946915/89a8717d-8970-4b36-af26-466e6dfa889e)
+
+## Edit Employee
+![Edit employee](https://github.com/Ameylog/Employee-Management-System/assets/58946915/c9d40763-2f29-4027-988c-4c80c3428105)
+
+## Update Salary
+![Update Salary](https://github.com/Ameylog/Employee-Management-System/assets/58946915/9771d32d-dc1e-41a4-9eb6-56149ad5d8b4)
+
+## Updated Record
+![Updated Record](https://github.com/Ameylog/Employee-ManagementSystem/assets/58946915/7e33b66f-a3b6-44e2-866b-242e3b37f2c9)
+
+## Before Deleting Record
+![Dashboard](https://github.com/Ameylog/Employee-Management-System/assets/58946915/498adc6d-b5c8-4b94-bdd3-d1960c6dc837)
+
+## After Deleting Second Record
+![Deleted Second Record](https://github.com/Ameylog/Employee-Management-System/assets/58946915/308db9e4-2555-4bf9-8942-936dc7d6855f)
 
 
 ## Install EMS_Frontend with npm
