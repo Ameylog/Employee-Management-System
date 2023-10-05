@@ -8,7 +8,7 @@ The project aims to demonstrate a basic Employee Management System with CRUD (Cr
 The actual functionality for adding, editing, deleting employees, and handling authentication should be implemented on the server-side in a real-world scenario.
 
 ## Home Page
-[Dashboard](https://github.com/Ameylog/Employee-Management-System/assets/58946915/b30d65ee-87db-485f-8616-ef31febc07cf)
+![Dashboard](https://github.com/Ameylog/Employee-Management-System/assets/58946915/37d9e938-c807-45a2-bdd9-03cbd8789e1a)
 
 
 ## Add Employee
@@ -24,7 +24,8 @@ The actual functionality for adding, editing, deleting employees, and handling a
 ![Update Salary](https://github.com/Ameylog/Employee-Management-System/assets/58946915/9771d32d-dc1e-41a4-9eb6-56149ad5d8b4)
 
 ## Updated Record
-![Updated Record](https://github.com/Ameylog/Employee-ManagementSystem/assets/58946915/7e33b66f-a3b6-44e2-866b-242e3b37f2c9)
+![Updated Record](https://github.com/Ameylog/Employee-Management-System/assets/58946915/b8d24d98-d522-49a1-8765-4055a3e5d1ea)
+
 
 ## Before Deleting Record
 ![Dashboard](https://github.com/Ameylog/Employee-Management-System/assets/58946915/498adc6d-b5c8-4b94-bdd3-d1960c6dc837)
