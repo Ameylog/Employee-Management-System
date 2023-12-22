@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  /* set color */
+  background-color: #e2e2e2!important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bgPrime{
+  background-color:#009688 !important;
+
+}
+.bgprime:hover{
+  background-color:#036d62 !important;
+
+}
+.bgwarning:hover{
+  background-color: #e6ad03!important;
+  /* color: white; */
+}
+
+.borderPrime{
+  border: 1px solid #009688!important ;
+}
+
+.borderWarn{
+  border: 1px solid #ffc107!important ;
+}
+
+
+/* Customize outline color for normal state */
+.custom-outline {
+  border-color: none; /* Change this to your desired color */
+}
+
+/* Customize outline color for focus state (when clicked) */
+.custom-outline:focus {
+  border-color: #009688; /* Change this to your desired color */
+  box-shadow: none; /* Optional: Remove the default box shadow */
+}
+
+.custom-out{
+  border-color: none;
+}
+.custom-out:focus {
+  border-color: rgb(3, 3, 199); /* Change this to your desired color */
+  box-shadow: none; /* Optional: Remove the default box shadow */
+}
