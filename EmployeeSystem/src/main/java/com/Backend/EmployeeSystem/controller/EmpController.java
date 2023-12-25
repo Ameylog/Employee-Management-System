@@ -44,12 +44,8 @@ public class EmpController {
 //    public ResponseEntity<List<Emp>> getAllEmp() {
 //        return new ResponseEntity<List<Emp>>(empService.getAllEmp(), HttpStatus.OK);
 //    }
-
-    //pagination
-//    @GetMapping("/getAll")
-//    public ResponseEntity<Page<Emp>> getAllEmp(@RequestParam("page") int page,@RequestParam("size") int size) {
-//        return new ResponseEntity<Page<Emp>>(empService.getAllEmp(page,size), HttpStatus.OK);
-//    }
+  
+   // get All with pagination
     @GetMapping("/getAll")
     public ResponseEntity<PostResponse> getAllEmp(@RequestParam(value = "pageNumber",defaultValue = "0",required = false) Integer pageNumber,
                                                   @RequestParam(value = "pageSize",defaultValue = "5",required = false) Integer pageSize) {
@@ -95,8 +91,7 @@ public class EmpController {
         }
     }
 
-
-
+  // Patch mapping alternate of put mapping
 //    @PatchMapping("/update/{id}")
 //    public ResponseEntity<String> partialUpdateEmp(
 //            @Valid @PathVariable Long id,
