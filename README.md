@@ -24,10 +24,6 @@ The Employee Management System (EMS) is a comprehensive web application built to
   
 ## Home Page
 ![Dashboard](https://github.com/Ameylog/Employee-Management-System/assets/58946915/37d9e938-c807-45a2-bdd9-03cbd8789e1a)
-<p align="center">
-  <img src="https://github.com/Ameylog/Employee-Management-System/assets/58946915/37d9e938-c807-45a2-bdd9-03cbd8789e1a" alt="Alt text" width="800" />
-</p>
-
 
 ## Add Employee
 ![Add Employee](https://github.com/Ameylog/Employee-Management-System/assets/58946915/2bcd0231-b6be-4fd2-aa2e-08d34ad67445)
